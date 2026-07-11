@@ -1,0 +1,10 @@
+{
+  "name": "자전거 대여 관리 시스템",
+  "short_name": "자전거 대여",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#173f35",
+  "lang": "ko",
+  "icons": []
+}
